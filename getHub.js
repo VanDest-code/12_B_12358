@@ -1,1 +1,1 @@
-////
+print ('Halo Alip Kontoll')
